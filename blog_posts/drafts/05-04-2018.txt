@@ -1,0 +1,8 @@
+There's nothing like taking a plan and completely throwing it out the window. I was going to do a series of posts about jekyll but I got to playing with gatsby.js yesterday. It's much more suited to my current needs. 
+
+Javascript is really more my thing. During my bootcamp we focused on Ruby and Rails with just a little bit of Javascript. And that was mostly jQuery. Towards the end of the six-month program I found myself doing a lot of exploring JS basics as well as the node environment. I felt a lot like Scrooge McDuck in his money pit when I discovered all of the things javascript can do these days. I just wanted to dive deep and swim and revel in it. 
+
+But back to Gatsby. So far what I love most about it are the tutorials. They seem fairly comprehensive as far as an overview goes. I also really like how easy it is to get started. 
+
+If you already have node.js installed it only takes two lines of code. One to install the cli and one to create a boilerplate app. There are also lots of 'starters.' For example, there's the default starter, a blog starter, and a hello world starter that are official. But then there are tons of community made starters as well. 
+

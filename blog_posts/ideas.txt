@@ -1,0 +1,15 @@
+To Write
+--------
+
+- What I believe (about me page)
+- Making a blog/theme (series)
+  - How I wrote my about page
+  - CSS for snippets
+  - Getting started (getting a basic jekyll/github pages running)
+  - Writing the first blog post (meta much?)
+  - Setting up a basic theme install
+  - Testing?
+
+
+Written
+-------
